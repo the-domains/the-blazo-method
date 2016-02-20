@@ -1,0 +1,28 @@
+name: The Blazo Method
+favicon: null
+layout_spectrum: 0.5073030698113143
+typography_spectrum: 0.040826434502378106
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9952626961749047
+  lightness: 0.2971620571333915
+  saturation: 0.09320732718333602
+  rhythmicContrast: 0.13895492209121585
+purpose: []
